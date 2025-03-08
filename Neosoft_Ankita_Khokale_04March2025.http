@@ -1,0 +1,6 @@
+@Neosoft_Ankita_Khokale_04March2025_HostAddress = http://localhost:5088
+
+GET {{Neosoft_Ankita_Khokale_04March2025_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
